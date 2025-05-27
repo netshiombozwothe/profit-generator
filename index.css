@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: inter,sans-serif;
+    font-weight: 800;
+    background: #1F2937;
+    align-items: center;
+    margin: 0px;
+}
+.input-el{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height:30px;
+    margin-right: 500px;
+
+
+}
+#get-profit{
+    width: 200px;
+    line-height: 30px;
+    margin-top: 15px;
+    background: lightblue;
+    text-align: center;
+}
+#display-profit{
+    background: lightblue;
+    width: 200px;
+    line-height: 30px;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#list-items{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    max-width:400px;
+    margin-right: 50px;
+    margin-left: 500px;
+    background:#273549;
+    color: whitesmoke;
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    list-style: none;
+    line-height: 40px;
+    color: #CCC1FF;
+
+    
+}
+h3{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 900;
+}
